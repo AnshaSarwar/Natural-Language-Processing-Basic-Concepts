@@ -1,4 +1,4 @@
-Basic NLP Concepts:
+**Basic NLP Concepts:**
 1. Tokenization
 2. Segmentation
 3. POS-Tagging
