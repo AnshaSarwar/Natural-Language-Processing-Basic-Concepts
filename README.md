@@ -1,7 +1,9 @@
 Basic NLP Concepts:
+
+
 --Tokenization
 --Segmentation
---POS-Tagginf
+--POS-Tagging
 --Lemmatization
 --Stemming
 --Levenshtein Distance/Edit Distance
