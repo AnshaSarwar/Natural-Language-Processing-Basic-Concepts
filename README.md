@@ -5,5 +5,6 @@
 4. Lemmatization
 5. Stemming
 6. Levenshtein Distance/Edit Distance
-7. Language Models and Perplexity
-8. Regular Expression Matching
+7. Byte-pair Encoding
+8. Language Models and Perplexity
+9. Regular Expression Matching
